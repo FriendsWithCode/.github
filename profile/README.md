@@ -3,6 +3,10 @@
   <img width="200" height="200" src="https://i.imgur.com/DU1OZbt.png">
 </p>
 
+<h2 align="center">
+
+[Discord server](https://discord.gg/qcC4fEQT2A)
+</h2>
 
 </h1>
 
